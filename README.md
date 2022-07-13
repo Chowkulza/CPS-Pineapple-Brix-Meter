@@ -6,5 +6,5 @@ This project is under developing.
 
 Authors
 1. Wongrapee Koedsin
-2. Chawanwit Chaopanya
-3.Phanuphat Choojit
+2. Chawanwit Chowpanya
+3.Panupat chuchit
