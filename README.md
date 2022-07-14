@@ -1,8 +1,9 @@
 # CPS-Pineapple-Brix-Meter
-Using Spectrometer to measure the Phuket pineapple's sugar content
-CPS is stand Chowkun(Wograpee), Phat(Panupat)  and Sky(Chawanwit) who are the autors of this project.
+Using Spectrometer to measure the Phuket pineapple's sugar content.
 The NOdeMCU ESP8266 was connected with AS7265s spectrometer sensor.
 This project is under developing.
+
+CPS is stand Chowkun(Wograpee), Phat(Panupat)  and Sky(Chawanwit) who are the autors of this project.
 
 Authors
 1. Wongrapee Koedsin
