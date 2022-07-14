@@ -7,4 +7,4 @@ This project is under developing.
 Authors
 1. Wongrapee Koedsin
 2. Chawanwit Chowpanya
-3.Panupat chuchit
+3. Panupat chuchit
