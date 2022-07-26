@@ -15,6 +15,6 @@ Instructions:
 
 https://youtu.be/uIp1lWhwAVc
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uIp1lWhwAVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/uIp1lWhwAVc "Everything Is AWESOME")
 
 ![331157](https://user-images.githubusercontent.com/109229453/179034985-478fb0a2-0d1e-4b65-9a3d-3aa62549a5e4.jpg)
