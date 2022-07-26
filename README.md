@@ -15,6 +15,6 @@ Instructions:
 
 https://youtu.be/uIp1lWhwAVc
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/uIp1lWhwAVc "Everything Is AWESOME")
+[![Everything Is AWESOME](https://user-images.githubusercontent.com/109229453/cps_yt.png)](https://youtu.be/uIp1lWhwAVc "Everything Is AWESOME")
 
 ![331157](https://user-images.githubusercontent.com/109229453/179034985-478fb0a2-0d1e-4b65-9a3d-3aa62549a5e4.jpg)
