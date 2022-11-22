@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=Yp_3pIAYULI
 
 
 
-[![Everything Is AWESOME](https://github.com/Chowkulza/CPS-Pineapple-Brix-Meter/blob/main/Brix_pineappleOverview.png)]([https://youtu.be/uIp1lWhwAVc](https://www.youtube.com/watch?v=Yp_3pIAYULI) "Everything Is AWESOME")
+[![Everything Is AWESOME](https://github.com/Chowkulza/CPS-Pineapple-Brix-Meter/blob/main/Brix_pineappleOverview.png)](https://www.youtube.com/watch?v=Yp_3pIAYULI) "Everything Is AWESOME")
 
 
 **Instructions:
